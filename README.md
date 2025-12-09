@@ -29,10 +29,15 @@
 <img width="491" height="803" alt="image" src="https://github.com/user-attachments/assets/c2eae63f-2f90-4511-bd4d-9ace11d42550" />
 
 
-**CALCULATION**
 
 **TABULATION:**
+<img width="506" height="272" alt="image" src="https://github.com/user-attachments/assets/046ec7c6-f1b9-49c0-a76b-c1bf5e57d1fd" />
 
+
+**CALCULATION**
+<img width="434" height="461" alt="image" src="https://github.com/user-attachments/assets/4da9ce3c-481c-4ea6-806e-7bea10edbbcf" />
+
+<img width="496" height="569" alt="image" src="https://github.com/user-attachments/assets/4b1fd4e4-8ce8-4ed6-ad3e-6d27dd29227d" />
 
 
 

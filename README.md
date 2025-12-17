@@ -24,6 +24,20 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="467" height="762" alt="image" src="https://github.com/user-attachments/assets/1ce098e8-7b11-4fa3-8705-31ac58a22087" />
+
+
+
+
+**TABULAR COLUMN:**
+
+
+
+
+
+
+**CALCULATION:**
+
 
 
 
